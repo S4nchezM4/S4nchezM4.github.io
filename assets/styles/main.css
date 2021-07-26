@@ -2,8 +2,13 @@
     margin: 0;
     padding: 0;
 }
-
-a{
+.top-bar{
+    background: #000000;
+}
+ul li a{
     text-decoration: none;
     list-style: none;
+}
+.logo_nav{
+	max-width: 160px;
 }

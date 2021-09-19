@@ -1,3 +1,7 @@
 .logo-navigation{
     max-width: 150px;
 }
+
+header {
+    max-width: 70%;
+}
